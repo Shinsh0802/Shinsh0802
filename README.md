@@ -44,16 +44,16 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 
 ## Stats:
-<!-- 
+
 <a href="https://github.com/danglequocbao001">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danglequocbao001&theme=tokyonight&hide_border=true&line_height=17&layout=compact" />
 </a>
 <a href="https://github.com/danglequocbao001">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=danglequocbao001&show_icons=true&theme=tokyonight&hide_border=true" alt="Bao's github stats"/>
 </a>
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=danglequocbao001&theme=tokyonight">
+<!-- <a href="https://github-readme-streak-stats.herokuapp.com/?user=danglequocbao001&theme=tokyonight">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danglequocbao001&theme=tokyonight" />
-</a>
+</a> -->
 <a href="https://github-readme-stats.vercel.app/api/wakatime?username=danglequocbao001&theme=tokyonight&hide_border=true">
  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=danglequocbao001&theme=tokyonight&hide_border=true" alt="Bao's github stats"/>
 </a>
@@ -66,7 +66,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danglequocbao001&repo=Bessenger&theme=tokyonight&hide_border=true" />
   </a>
 </div>
- -->
+
 
 
 
