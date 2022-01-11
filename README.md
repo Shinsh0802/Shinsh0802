@@ -17,7 +17,7 @@
 <br/>
 
 - 👨‍🎓 I'm a Junior at [PTIT](http://hcm.ptit.edu.vn/).
-- 🤔 I’m looking for help with React Native, NodeJs and MySQL documentations.
+- 🤔 I’m looking for help with ReactJS, NodeJs and MongoDB documentations.
 - 💬 Ask me about Ionic/Angular or any tech-related stuff.
 - ⚡ Fun fact: My dominant hand is left.
 
