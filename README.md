@@ -9,6 +9,9 @@
 <a href="https://www.linkedin.com/in/ngô-sĩ-hòa-426652229/">
   <img align="left" alt="Hoa's Linkdein" width="38px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/linkedin_logo_icon_147268.png" />
 </a>
+<a href="https://www.instagram.com/shinsh_0802/?hl=fr">
+  <img align="left" alt="Hoa's Instagram" width="35px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvi.m.wikipedia.org%2Fwiki%2FT%25E1%25BA%25ADp_tin%3AInstagram_logo_2016.svg&psig=AOvVaw2l4dtlIzC8nHGL3DNSbiCq&ust=1642009465440000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJjr84-gqvUCFQAAAAAdAAAAABAD" />
+</a>
 <a href="https://github.com/Shinsh0802">
   <img align="left" alt="Hoa's Github" width="35px" src="https://github.githubassets.com/images/mona-loading-dark.gif" />
 </a>
