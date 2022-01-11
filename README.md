@@ -10,7 +10,7 @@
   <img align="left" alt="Hoa's Linkdein" width="38px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/linkedin_logo_icon_147268.png" />
 </a>
 <a href="https://www.instagram.com/shinsh_0802/?hl=fr">
-  <img align="left" alt="Hoa's Instagram" width="35px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-owebi&psig=AOvVaw2l4dtlIzC8nHGL3DNSbiCq&ust=1642009465440000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJjr84-gqvUCFQAAAAAdAAAAABAJ" />
+  <img align="left" alt="Hoa's Instagram" width="35px" src="https://cdn.icon-icons.com/icons2/2428/PNG/512/instagram_black_logo_icon_147122.png/>
 </a>
 <a href="https://github.com/Shinsh0802">
   <img align="left" alt="Hoa's Github" width="35px" src="https://github.githubassets.com/images/mona-loading-dark.gif" />
