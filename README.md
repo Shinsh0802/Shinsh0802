@@ -1,7 +1,7 @@
 ## Hello, I'm [Ngo Si Hoa](https://github.com/Shinsh0802)!👋
 
 <a href="https://www.facebook.com/shn.08.02.2001/">
-  <img align="left" alt="Hoa's Facebook" width="40px" src="https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo.png" />
+  <img align="left" alt="Hoa's Facebook" width="60px" src="https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo.png" />
 </a>
 <a href="https://twitter.com/Shinsh_0802">
   <img align="left" alt="Hoa's Twitter" width="40px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
@@ -16,6 +16,7 @@
   <img align="left" alt="Hoa's Github" width="35px" src="https://github.githubassets.com/images/mona-loading-dark.gif" />
 </a>
 
+<br/>
 <br/>
 <br/>
 
