@@ -10,7 +10,7 @@
   <img align="left" alt="Hoa's Linkdein" width="38px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/linkedin_logo_icon_147268.png" />
 </a>
 <a href="https://www.instagram.com/shinsh_0802/?hl=fr">
-  <img align="left" alt="Hoa's Instagram" width="35px" src="https://cdn.icon-icons.com/icons2/2428/PNG/512/instagram_black_logo_icon_147122.png"/>
+  <img align="left" alt="Hoa's Instagram" width="35px" src="https://cdn.icon-icons.com/icons2/1582/PNG/512/instagram_108043.png"/>
 </a>
 <a href="https://github.com/Shinsh0802">
   <img align="left" alt="Hoa's Github" width="35px" src="https://github.githubassets.com/images/mona-loading-dark.gif" />
@@ -25,12 +25,11 @@
 - ⚡ Fun fact: My dominant hand is left.
 
 **Languages:**
-
-<a href="https://github.com/microsoft/TypeScript">
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-</a>
 <a href="https://www.javascript.com">
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+</a>
+<a href="https://github.com/microsoft/TypeScript">
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 </a>
 <a href="https://www.java.com">
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
