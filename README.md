@@ -1,7 +1,6 @@
 ## Hello, I'm [Ngo Si Hoa](https://github.com/Shinsh0802)!👋
 
-![image](https://user-images.githubusercontent.com/97546114/149109273-3226655f-1bad-4f58-9ab9-ee81eafd5491.png)
-
+![image](https://user-images.githubusercontent.com/97546114/149109746-b2ad0ca6-6aac-4323-ae88-50e5656e5f05.png)
 
 <a href="https://www.facebook.com/shn.08.02.2001/">
   <img align="left" alt="Hoa's Facebook" width="60px" src="https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo.png" />
