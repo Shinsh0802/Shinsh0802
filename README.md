@@ -43,13 +43,7 @@
 <a href="https://github.com/dartsim/dart">
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 </a>
-### Weapons 🏹
-| Languages & Skills | progress (base on projects and teamwork ability)  |
-|--|--|
-![search](https://img.shields.io/badge/-Google&#160;Search-9cf?&logo=google)| ![progress](https://progress-bar.dev/50/?scale=100&width=300&suffix=%)
-![git](https://img.shields.io/badge/-Git-8cf?&logo=git)| ![progress](https://progress-bar.dev/50/?scale=100&width=300&suffix=%)
-![hacking](https://img.shields.io/badge/-Terminal-8cf?&logo=gnu-bash)| ![progress](https://progress-bar.dev/50/?scale=100&width=300&suffix=%)
----
+
 **Tools:**
 
 
@@ -57,6 +51,15 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<br/>
+### Weapons 🏹
+| Languages & Skills | progress (base on projects and teamwork ability)  |
+|--|--|
+![search](https://img.shields.io/badge/-Google&#160;Search-9cf?&logo=google)| ![progress](https://progress-bar.dev/50/?scale=100&width=300&suffix=%)
+![git](https://img.shields.io/badge/-Git-8cf?&logo=git)| ![progress](https://progress-bar.dev/50/?scale=100&width=300&suffix=%)
+![hacking](https://img.shields.io/badge/-Terminal-8cf?&logo=gnu-bash)| ![progress](https://progress-bar.dev/50/?scale=100&width=300&suffix=%)
+---
+<br/>
 
 ## Stats:
 
