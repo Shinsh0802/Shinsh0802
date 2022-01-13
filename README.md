@@ -57,7 +57,7 @@
 |--|--|
 ![search](https://img.shields.io/badge/-Google&#160;Search-9cf?&logo=google)| ![progress](https://progress-bar.dev/50/?scale=100&width=300&suffix=%)
 ![git](https://img.shields.io/badge/-Git-8cf?&logo=git)| ![progress](https://progress-bar.dev/40/?scale=100&width=300&suffix=%)
-![hacking](https://img.shields.io/badge/-Terminal-8cf?&logo=gnu-bash)| ![progress](https://progress-bar.dev/50/?scale=100&width=300&suffix=%)
+![hacking](https://img.shields.io/badge/-Terminal-8cf?&logo=gnu-bash)| ![progress](https://progress-bar.dev/35/?scale=100&width=300&suffix=%)
 
 ## Stats:
 
