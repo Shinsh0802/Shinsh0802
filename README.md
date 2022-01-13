@@ -26,7 +26,7 @@
 - 👨‍🎓 I'm a Junior at [PTIT](http://hcm.ptit.edu.vn/).
 - 🤔 I’m looking for help with ReactJS, NodeJs and MongoDB documentations.
 - 💬 Ask me about Ionic/Angular or any tech-related stuff.
-- ⚡ Fun fact: Trade coin is a pleasure.
+- ⚡ Fun fact: Trade coin is a way to learn knowledge.
 
 **Languages:**
 
