@@ -1,4 +1,4 @@
-## Hello, I'm [Ngo Si Hoa](https://github.com/Shinsh0802)!👋
+## Hello, I'm [Si Hoa Ngo](https://github.com/Shinsh0802)!👋
 
 ![image](https://user-images.githubusercontent.com/97546114/149110103-d7ec6603-a8ce-4df2-97de-1e6f546883fa.png)
 
