@@ -19,9 +19,6 @@
 </a>
 
 <br/>
-<br/>
-<br/>
-<br/>
 
 - 👨‍🎓 I'm a Junior at [PTIT](https://portal.ptit.edu.vn/).
 - 🤔 I’m looking for help with ReactJS, NodeJs and MongoDB documentations.
