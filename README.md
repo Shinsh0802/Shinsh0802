@@ -6,8 +6,7 @@
   <img align="left" alt="Hoa's Facebook" width="60px" src="https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo.png" />
 </a>
 <a href="https://twitter.com/Shinsh_0802">
-  <img align="left" alt="Hoa's Twitter" width="40px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
+
 <a href="https://www.linkedin.com/in/ngô-sĩ-hòa-426652229/">
   <img align="left" alt="Hoa's Linkdein" width="38px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/linkedin_logo_icon_147268.png" />
 </a>
