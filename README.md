@@ -1,10 +1,6 @@
 ## Hello, I'm [Si Hoa Ngo](https://github.com/Shinsh0802)!👋
 
 ![image](https://user-images.githubusercontent.com/97546114/149110103-d7ec6603-a8ce-4df2-97de-1e6f546883fa.png)
-
-<a href="https://www.facebook.com/shn.08.02.2001/">
-  <img align="left" alt="Hoa's Facebook" width="60px" src="https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo.png" />
-</a>
 <a href="https://twitter.com/Shinsh_0802">
 
 <a href="https://www.linkedin.com/in/ngô-sĩ-hòa-426652229/">
@@ -17,6 +13,7 @@
   <img align="left" alt="Hoa's Github" width="35px" src="https://github.githubassets.com/images/mona-loading-dark.gif" />
 </a>
 <br/>
+
 - 👨‍🎓 I'm a Junior at [PTIT](https://portal.ptit.edu.vn/).
 - 🤔 I’m looking for help with ReactJS, NodeJs and MongoDB documentations.
 - 💬 Ask me about Ionic/Angular or any tech-related stuff.
