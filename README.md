@@ -11,7 +11,7 @@ Here are some university projects that I have contributed to:
 
 
 Personal projects:
-- [Chat application:](https://github.com/minghunt/chat-app: Application using socket.io for real-time chat.
+- [Chat application:](): Application using socket.io for real-time chat.
 ## Contact
 
 
