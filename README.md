@@ -1,93 +1,29 @@
-## Hello, I'm [Shine Ngo](https://github.com/Shinsh0802)!👋
-<a href="https://twitter.com/Shinsh_0802">
+# Hello! I'm Ngo Si Hoa
 
-<a href="https://www.linkedin.com/in/ngô-sĩ-hòa-426652229/">
-  <img align="left" alt="Hoa's Linkdein" width="38px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/linkedin_logo_icon_147268.png" />
-</a>
-<a href="https://www.instagram.com/shinsh8221/?hl=fr">
-  <img align="left" alt="Hoa's Instagram" width="40px" src="https://cdn.icon-icons.com/icons2/1582/PNG/512/instagram_108043.png"/>
-</a>
-<a href="https://github.com/Shinsh0802">
-  <img align="left" alt="Hoa's Github" width="35px" src="https://github.githubassets.com/images/mona-loading-dark.gif" />
-</a>
-<br/>
-<br/>
-<br/>
-- 👨‍🎓 I'm a Junior at [PTIT](https://portal.ptit.edu.vn/).
-- 🤔 I’m looking for help with ReactJS, NodeJs and MongoDB documentations.
-- 💬 Ask me about Ionic/Angular or any tech-related stuff.
-- ⚡ Fun fact: Trade coin is a way to learn knowledge.
+- 🔭  Studying at [Posts and Telecommunications Institute of Technology (PTIT)](https://ptit.edu.vn/)
 
-**Languages:**
+## Projects
+
+Here are some university projects that I have contributed to:
 
 
-<a href="https://www.javascript.com">
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-</a>
-<a href="https://github.com/microsoft/TypeScript">
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-</a>
-<a href="https://www.java.com">
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-</a>
-<a href="https://github.com/dartsim/dart">
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-</a>
-
-**Tools:**
+- [Sell courses](https://github.com/hau1605/sell_courses.git): Course website construction project.
 
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<br/>
-### Weapons 🏹
-| Languages & Skills | progress (base on projects and teamwork ability)  |
-|--|--|
-![search](https://img.shields.io/badge/-Google&#160;Search-9cf?&logo=google)| ![progress](https://progress-bar.dev/50/?scale=100&width=300&suffix=%)
-![git](https://img.shields.io/badge/-Git-8cf?&logo=git)| ![progress](https://progress-bar.dev/40/?scale=100&width=300&suffix=%)
-![hacking](https://img.shields.io/badge/-Terminal-8cf?&logo=gnu-bash)| ![progress](https://progress-bar.dev/35/?scale=100&width=300&suffix=%)
-<!-- 
-## Stats: -->
-
-<!-- <a href="https://github.com/danglequocbao001">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danglequocbao001&theme=tokyonight&hide_border=true&line_height=17&layout=compact" />
-</a>
-<!-- <a href="https://github.com/danglequocbao001">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=danglequocbao001&show_icons=true&theme=tokyonight&hide_border=true" alt="Bao's github stats"/>
-</a> -->
-<!-- <a href="https://github-readme-streak-stats.herokuapp.com/?user=danglequocbao001&theme=tokyonight">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danglequocbao001&theme=tokyonight" />
-</a> -->
-<!-- <a href="https://github-readme-stats.vercel.app/api/wakatime?username=danglequocbao001&theme=tokyonight&hide_border=true">
- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=danglequocbao001&theme=tokyonight&hide_border=true" alt="Bao's github stats"/>
-</a> -->
-
-<!-- <div>
- <a href="https://github.com/danglequocbao001/Bessenger">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danglequocbao001&repo=Bessenger&theme=tokyonight&hide_border=true" />
-  </a> 
- <a href="https://github.com/danglequocbao001/CityGuide">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danglequocbao001&repo=CityGuide&theme=tokyonight&hide_border=true" />
- </a>
-</div> -->
+Personal projects:
+- [Chat application:](https://github.com/minghunt/chat-app: Application using socket.io for real-time chat.
+## Contact
 
 
+If you would like to contact me, you can reach me via:
 
+- Email: [sihoa2k1@gmail.com](mailto:sihoa2k1@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]() 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# 💻Tech Stack
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+ ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+/* # 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=minghunt&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=minghunt&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=minghunt&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact) */
