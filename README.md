@@ -1,6 +1,6 @@
 # Hello! I'm Ngo Si Hoa
 
-- 🔭  Studying at [Posts and Telecommunications Institute of Technology (PTIT)](https://ptit.edu.vn/)
+- 🔭  Information Security Engineer at [Posts and Telecommunications Institute of Technology (PTIT)](https://ptit.edu.vn/)
 
 ## Projects
 
